@@ -1,7 +1,7 @@
 # **My First DS Portfolio**
 
 ## **Project 1**
-### **Exploring whether Expert Algorithmic Preference might constitute a Partial - yet Functional Predictor of Analytic Result Variation**
+### **Exploring whether Expert Algorithmic Preference might constitute a Partial - \n yet Functional Predictor of Analytic Result Variation**
 
 Goals: 
 
