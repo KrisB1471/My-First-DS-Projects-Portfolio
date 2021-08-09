@@ -9,3 +9,10 @@ Goals:
 
 2. A more fine-grained re-analysis of the collected survey data looking more carefully at mentioned software characteristics, and the relationship between MAODS analysts’ three SwE-related knowledge domains and their respective SwC.
 
+
+## **Project 2**
+### **Analysis of Switzerland’s Public Health Communication during the COVID-19 Pandemic**
+
+Goal: 
+
+To investigate the effects of the Swiss government’s public health risk and crisis communication on the social media public’s expressed fear and trust sentiment during the COVID-19 pandemic using natural language processing (NLP).
