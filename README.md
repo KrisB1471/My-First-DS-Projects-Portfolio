@@ -1,8 +1,8 @@
 # **My First DS Projects Portfolio**
 
 ## **[Project 1](https://github.com/KrisB1471/BA-Thesis-FullNotebook)**
+[On ResearchGate](https://www.researchgate.net/project/Exploring-whether-Expert-Algorithmic-Preference-might-constitute-a-Partial-yet-Functional-Predictor-of-Analytic-Result-Variation)
 ### **Exploring whether Expert Algorithmic Preference might constitute a Partial - yet Functional Predictor of Analytic Result Variation**
-[ResearchGate Project 1](https://www.researchgate.net/project/Exploring-whether-Expert-Algorithmic-Preference-might-constitute-a-Partial-yet-Functional-Predictor-of-Analytic-Result-Variation)
 
 Goals: 
 
@@ -12,8 +12,8 @@ Goals:
 
 
 ## **[Project 2](https://github.com/KrisB1471/CorpCom)**
+[On ResearchGate](https://www.researchgate.net/project/Analysis-of-Switzerlands-Public-Health-Communication-during-the-COVID-19-Pandemic-Exploring-the-Effects-of-the-Governments-Risk-and-Crisis-Communication-on-the-Social-Media-Publics-Expressed-Fear-and)
 ### **Analysis of Switzerland’s Public Health Communication during the COVID-19 Pandemic**
-[ResearchGate Project 2](https://www.researchgate.net/project/Analysis-of-Switzerlands-Public-Health-Communication-during-the-COVID-19-Pandemic-Exploring-the-Effects-of-the-Governments-Risk-and-Crisis-Communication-on-the-Social-Media-Publics-Expressed-Fear-and)
 
 Goal: 
 
