@@ -1,4 +1,4 @@
-# **Ongoing Projects**
+# **Ongoing Projects:**
 
 ## **[GitHub Project 1](https://github.com/KrisB1471/BA-Thesis-FullNotebook)**
 [Project 1 on ResearchGate](https://www.researchgate.net/project/Exploring-whether-Expert-Algorithmic-Preference-might-constitute-a-Partial-yet-Functional-Predictor-of-Analytic-Result-Variation)
