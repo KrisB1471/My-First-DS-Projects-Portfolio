@@ -2,7 +2,7 @@
 
 ## **Project 1**
 ### **Exploring whether Expert Algorithmic Preference might constitute a Partial - yet Functional Predictor of Analytic Result Variation**
-[Link to Project 1](https://www.researchgate.net/project/Exploring-whether-Expert-Algorithmic-Preference-might-constitute-a-Partial-yet-Functional-Predictor-of-Analytic-Result-Variation)
+[ResearchGate Project 1](https://www.researchgate.net/project/Exploring-whether-Expert-Algorithmic-Preference-might-constitute-a-Partial-yet-Functional-Predictor-of-Analytic-Result-Variation)
 
 Goals: 
 
@@ -13,7 +13,7 @@ Goals:
 
 ## **Project 2**
 ### **Analysis of Switzerland’s Public Health Communication during the COVID-19 Pandemic**
-[Link to Project 2](https://www.researchgate.net/project/Analysis-of-Switzerlands-Public-Health-Communication-during-the-COVID-19-Pandemic-Exploring-the-Effects-of-the-Governments-Risk-and-Crisis-Communication-on-the-Social-Media-Publics-Expressed-Fear-and)
+[ResearchGate Project 2](https://www.researchgate.net/project/Analysis-of-Switzerlands-Public-Health-Communication-during-the-COVID-19-Pandemic-Exploring-the-Effects-of-the-Governments-Risk-and-Crisis-Communication-on-the-Social-Media-Publics-Expressed-Fear-and)
 
 Goal: 
 
