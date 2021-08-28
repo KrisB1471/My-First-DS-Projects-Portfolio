@@ -18,3 +18,17 @@ Goals:
 Goal: 
 
 To investigate the effects of the Swiss government’s public health risk and crisis communication on the social media public’s expressed fear and trust sentiment during the COVID-19 pandemic using natural language processing (NLP).
+
+
+## **[GitHub Project 3](https://github.com/KrisB1471/LTF)**
+[Project 3 on ResearchGate](https://www.researchgate.net/project/Measuring-the-Efficacy-and-Efficiency-of-Psychological-Interventions)
+### **Measuring the Efficacy and Efficiency of Psychological Interventions**
+
+Goals: 
+
+1. To compare and contrast psychological intervention techniques in the area of "personal development" by measuring their efficacy and efficiency.
+2. To alleviate the "[Generalizability] Crisis in Clinical Psychological Science" (Grubbs, J. B., 2021; Yarkoni, T., 2020).
+3. To improve mental public health.
+
+
+
