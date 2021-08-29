@@ -27,8 +27,10 @@ To investigate the effects of the Swiss government’s public health risk and cr
 Goals: 
 
 1. To compare and contrast psychological intervention techniques in the area of "personal development" by measuring their efficacy and efficiency.
-2. To alleviate the "[Generalizability] Crisis in Clinical Psychological Science" (Grubbs, J. B., 2021; Yarkoni, T., 2020).
-3. To improve mental public health.
+2. Pre- and post-seminar participant survey analysis (gauging confidence, fear and self-esteem). 
+3. Longitudinal time-series analysis of regular client follow-ups.
+4. To alleviate the "[Generalizability] Crisis in Clinical Psychological Science" (Grubbs, J. B., 2021; Yarkoni, T., 2020).
+5. To improve mental public health.
 
 
 
