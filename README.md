@@ -27,7 +27,7 @@ To investigate the effects of the Swiss government’s public health risk and cr
 
 Goals: 
 
-1. To compare and contrast psychological intervention techniques in the area of *personal development*, by measuring their efficacy and efficiency in terms of the sucessful achievement of predefined objectives over the number of interventions required to accomplish the desired outcome; in addition to measuring the *durability* of those interventions over time (i.e., maintaining success).
+1. To compare and contrast psychological intervention techniques in the area of *personal development*, by measuring their efficacy and efficiency in terms of the sucessful achievement of predefined objectives over the number of interventions required to accomplish the desired outcome; in addition to measuring the *durability* of those interventions over time (i.e., maintaining personal success).
 
 2. Pre- and post-intervention survey analysis (gauging confidence, fear and self-esteem). 
 
