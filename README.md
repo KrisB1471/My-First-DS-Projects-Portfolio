@@ -1,8 +1,9 @@
 # **Ongoing Projects:**
 
 ## **[GitHub Project 1](https://github.com/KrisB1471/ExpAlgPref.git)**
-[Project 1 on ResearchGate](https://www.researchgate.net/project/Exploring-whether-Expert-Algorithmic-Preference-might-constitute-a-Partial-yet-Functional-Predictor-of-Analytic-Result-Variation)
-### **Exploring whether Expert Algorithmic Preference might constitute a Partial - yet Functional Predictor of Analytic Result Variation**
+[Project 1 on ResearchGate](https://www.researchgate.net/project/Further-Exploring-whether-Expert-Algorithmic-Preference-might-constitute-a-Partial-yet-Functional-Predictor-of-Analytic-Result-Variation)
+### **Further Exploring whether Expert Algorithmic Preference might constitute a Partial - yet Functional Predictor of Analytic Result Variation**
+#### **A Meta-Research Follow-Up on “Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results” ([Silberzahn et al., 2018](https://journals.sagepub.com/doi/10.1177/2515245917747646))**
 
 Goals: 
 
@@ -29,7 +30,7 @@ Goals:
 1. To compare and contrast psychological intervention techniques in the area of *personal development* by measuring their efficacy and efficiency.
 2. Pre- and post-seminar participant survey analysis (gauging confidence, fear and self-esteem). 
 3. Longitudinal time-series analysis of regular client follow-ups.
-4. To alleviate the "[Generalizability] Crisis in Clinical Psychological Science" (Grubbs, J. B., 2021; [Yarkoni, T., 2020]).
+4. To alleviate the "Generalizability Crisis in Clinical Psychological Science" ([Grubbs, J. B., 2021](https://www.researchgate.net/publication/350533362_Cost_of_Crisis_in_Psychological_Science); [Yarkoni, T., 2020](https://www.researchgate.net/publication/337447010_The_Generalizability_Crisis)).
 5. To improve public mental health and promote citizen's well-beeing.
 
 
