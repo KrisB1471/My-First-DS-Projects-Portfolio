@@ -3,7 +3,7 @@
 ## **[GitHub Project 1](https://github.com/KrisB1471/ExpAlgPref.git)**
 [Project 1 on ResearchGate](https://www.researchgate.net/project/Further-Exploring-whether-Expert-Algorithmic-Preference-might-constitute-a-Partial-yet-Functional-Predictor-of-Analytic-Result-Variation)
 ### **Further Exploring whether Expert Algorithmic Preference might constitute a Partial - yet Functional Predictor of Analytic Result Variation**
-#### **A Meta-Research Follow-Up on “Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results” ([Silberzahn et al., 2018](https://journals.sagepub.com/doi/10.1177/2515245917747646))**
+#### A Meta-Research Follow-Up on “Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results” ([Silberzahn et al., 2018](https://journals.sagepub.com/doi/10.1177/2515245917747646))
 
 Goals: 
 
