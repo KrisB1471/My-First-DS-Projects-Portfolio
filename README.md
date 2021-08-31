@@ -16,9 +16,13 @@ Goals:
 [Project 2 on ResearchGate](https://www.researchgate.net/project/Analysis-of-Switzerlands-Public-Health-Communication-during-the-COVID-19-Pandemic-Exploring-the-Effects-of-the-Governments-Risk-and-Crisis-Communication-on-the-Social-Media-Publics-Expressed-Fear-and)
 ### **Analysis of Switzerland’s Public Health Communication during the COVID-19 Pandemic**
 
-Goal: 
+Goals: 
 
-To investigate the effects of the Swiss government’s public health risk and crisis communication on the social media public’s expressed fear and trust sentiment during the COVID-19 pandemic using natural language processing (NLP).
+1. To investigate the effects of the Swiss government’s public health risk and crisis communication on the social media public’s expressed fear and trust sentiment during the COVID-19 pandemic using natural language processing (NLP).
+
+2. Possibly refining the FOPH's risk and crisis communication model.
+
+3. Possibly constructing a social media sentiment dashboard to allow for real-time feedback on published posts. 
 
 
 ## **[GitHub Project 3](https://github.com/KrisB1471/LTF)**
