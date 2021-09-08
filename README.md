@@ -15,7 +15,7 @@ Goals:
 
 
 ## **[GitHub Project 2](https://github.com/KrisB1471/CorpCom)**
-[Project 2 on ResearchGate](https://www.researchgate.net/project/Analysis-of-Switzerlands-Public-Health-Communication-during-the-COVID-19-Pandemic-Exploring-the-Effects-of-the-Governments-Risk-and-Crisis-Communication-on-the-Social-Media-Publics-Expressed-Fear-and)
+[Project 2 on ResearchGate](https://www.researchgate.net/project/Analysis-of-Switzerlands-Public-Health-Communication-during-the-COVID-19-Pandemic)
 ### **Analysis of Switzerland’s Public Health Communication during the COVID-19 Pandemic**
 
 Goals: 
