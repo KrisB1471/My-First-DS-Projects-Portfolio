@@ -1,15 +1,17 @@
 # **Ongoing Projects:**
 
 ## **[GitHub Project 1](https://github.com/KrisB1471/ExpAlgPref.git)**
-[Project 1 on ResearchGate](https://www.researchgate.net/project/Further-Exploring-whether-Expert-Algorithmic-Preference-might-constitute-a-Partial-yet-Functional-Predictor-of-Analytic-Result-Variation)
-### **Further Exploring whether Expert Algorithmic Preference might constitute a Partial - yet Functional Predictor of Analytic Result Variation**
+[Project 1 on ResearchGate](https://www.researchgate.net/project/Exploring-Expert-Algorithmic-Preference-as-Partial-yet-Functional-Predictor-of-Analytic-Result-Variation)
+### **Exploring Expert Algorithmic Preference as Partial - yet Functional Predictor of Analytic Result Variation**
 #### A Meta-Research Follow-Up on “Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results” ([Silberzahn et al., 2018](https://journals.sagepub.com/doi/10.1177/2515245917747646))
 
 Goals: 
 
-1. Statistical re-analysis and modeling of the original MAODS crowdsourcing soccer data. Then implementing the final modeling approach using six different statistical software packages (viz. R, PYTHON, MATLAB, and SPSS + possibly others such as JULIA, SAS, STATA, ...). Finally, performing a comparison of their respective result outputs. 
+1) Statistical re-analysis and modeling of the original MAODS crowdsourcing soccer data. Then implementing the final modeling approach using six different statistical software packages (viz. R, PYTHON, MATLAB, and SPSS + possibly others like JULIA, SAS, STATA). Finally, performing a comparison of their respective result outputs.
 
-2. A more fine-grained re-analysis of the collected survey data looking more carefully at mentioned software characteristics, and the relationship between MAODS analysts’ three software expertise (SwE) related knowledge domains and their respective preferential software choices (SwC).
+2) A more fine-grained re-analysis of the collected survey data looking more carefully at mentioned software characteristics, and the relationship between MAODS analysts’ three Software Expertise (SwE) related knowledge domains and their respective preferential Software Choice (SwC).
+
+3) Elaborate a proposal for future research.
 
 
 ## **[GitHub Project 2](https://github.com/KrisB1471/CorpCom)**
