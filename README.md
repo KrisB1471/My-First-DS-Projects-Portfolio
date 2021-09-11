@@ -24,7 +24,7 @@ Goals:
 
 2. Possibly refining the [FOPH](https://www.bag.admin.ch/bag/en/home.html)'s risk and crisis communication model.
 
-3. Possibly constructing a social media sentiment dashboard to allow for real-time feedback on published posts. 
+3. Possibly constructing a social media sentiment dashboard to allow for real-time feedback on posted publications. 
 
 
 ## **[GitHub Project 3](https://github.com/KrisB1471/LTF)**
