@@ -22,7 +22,7 @@ Goals:
 
 1. To investigate the effects of the Swiss government’s public health risk and crisis communication on the social media public’s expressed fear and trust sentiment during the COVID-19 pandemic using natural language processing (NLP).
 
-2. Possibly refining the FOPH's risk and crisis communication model.
+2. Possibly refining the [FOPH](https://www.bag.admin.ch/bag/en/home.html)'s risk and crisis communication model.
 
 3. Possibly constructing a social media sentiment dashboard to allow for real-time feedback on published posts. 
 
