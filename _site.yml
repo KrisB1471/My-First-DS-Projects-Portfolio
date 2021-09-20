@@ -1,0 +1,39 @@
+name: "Projects Potfolio"
+#cover-image: ""
+description: "Projects Potfolio"
+navbar:
+#  title: "Projects Potfolio"
+#  avatar: "/images/62520157.jpg"
+  left:
+    - text: "Projects Overview"
+      href: index.html
+    - text: "Project 1"
+      href: project1.html
+    - text: "Project 2"
+      href: project2.html
+    - text: "Project 3"
+      href: project3.html
+    - text: "CV"
+      href: cv.html
+  right:
+    - text: ""
+      icon: fab fa-github
+      href: "https://github.com/KrisB1471" 
+    - text: " "
+      icon: fab fa-researchgate
+      href: "https://www.researchgate.net/profile/Chris-Aeschbacher"
+    - text: " "
+      icon: fab fa-linkedin
+      href: "https://www.linkedin.com/in/chris-aeschbacher-14511aa9/"
+    - text: " "
+      icon: fab fa-twitter
+      href: "https://twitter.com/KrisB76345654"
+output:
+  html_document:
+#    theme: cosmo
+#    highlight: textmate
+    include:
+      before_body: header.html
+      after_body: footer.html
+#    css: github-dark.css
+output_dir: "yml_output_dir"
