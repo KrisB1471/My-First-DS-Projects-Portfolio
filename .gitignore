@@ -1,14 +1,20 @@
-*
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
 
-!.gitignore
-!README.md
-!_site.yml
+cv.Rmd
 
-!docs
-!docs/*
+footer.html
+googleAnalytics.html
+header.html
 
-!docs/images
-!docs/images/*
+/images/*
 
-!docs/site_libs
-!docs/site_libs/*
+index.Rmd
+project1.Rmd
+project2.Rmd
+project3.Rmd
+
+X.gitignore
+
