@@ -1,8 +1,8 @@
-name: "Projects Potfolio"
+name: "Projects"
 #cover-image: ""
 description: "Projects Potfolio"
 navbar:
-  title: "Projects Potfolio"
+  title: "Projects"
 #  avatar: "/images/62520157.jpg"
   left:
     - text: "Overview"
@@ -13,6 +13,10 @@ navbar:
       href: project2.html
     - text: "Project 3"
       href: project3.html
+    - text: "Resources"
+      href: resources.html
+    - text: "References"
+      href: references.html
     - text: "CV"
       href: cv.html
   right:
