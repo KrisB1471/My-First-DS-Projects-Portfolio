@@ -6,4 +6,9 @@
 
 !docs
 !docs/*
-.Rproj.user
+
+!docs/images
+!docs/images/*
+
+!docs/site_libs
+!docs/site_libs/*
