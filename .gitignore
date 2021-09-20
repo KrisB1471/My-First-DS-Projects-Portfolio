@@ -1,4 +1,4 @@
 *
 !.gitignore
 !README.md
-!/yml_output_dir
+!*/yml_output_dir
