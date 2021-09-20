@@ -2,7 +2,7 @@ name: "Projects Potfolio"
 #cover-image: ""
 description: "Projects Potfolio"
 navbar:
-  title: "Projects"
+  title: "Potfolio"
 #  avatar: "/images/62520157.jpg"
   left:
     - text: "Overview"
