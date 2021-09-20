@@ -3,4 +3,4 @@
 ! .gitignore
 ! README.md
 ! _site.yml
-! bin/yml_output_dir/*
+! bin/yml_output_dir
