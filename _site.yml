@@ -11,8 +11,8 @@ navbar:
       href: project1.html
     - text: "Project 2"
       href: project2.html
-    - text: "Project 3"
-      href: project3.html
+    - text: "Archive"
+      href: archive.html
     - text: "Resources"
       href: resources.html
     - text: "References"
