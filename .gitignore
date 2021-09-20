@@ -4,5 +4,5 @@
 !README.md
 !_site.yml
 
-!yml_output_dir
-!yml_output_dir/*
+!docs
+!docs/*
