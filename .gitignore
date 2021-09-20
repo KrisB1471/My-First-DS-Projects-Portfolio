@@ -1,5 +1,6 @@
 *
 
-!.gitignore
-!README.md
-!*/yml_output_dir/*
+! .gitignore
+! README.md
+! _site.yml
+! bin/yml_output_dir/*
