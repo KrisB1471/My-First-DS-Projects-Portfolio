@@ -2,10 +2,10 @@ name: "Projects Potfolio"
 #cover-image: ""
 description: "Projects Potfolio"
 navbar:
-#  title: "Projects Potfolio"
+  title: "Projects"
 #  avatar: "/images/62520157.jpg"
   left:
-    - text: "Projects Overview"
+    - text: "Overview"
       href: index.html
     - text: "Project 1"
       href: project1.html
@@ -32,8 +32,8 @@ output:
   html_document:
 #    theme: cosmo
 #    highlight: textmate
-    include:
-      before_body: header.html
-      after_body: footer.html
-    css: github-dark.css
+#    include:
+#      before_body: header.html
+#      after_body: footer.html
+#    css: github-dark.css
 output_dir: "docs"
