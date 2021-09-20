@@ -3,4 +3,6 @@
 !.gitignore
 !README.md
 !_site.yml
-!/yml_output_dir/*
+
+!bin
+!bin/yml_output_dir
