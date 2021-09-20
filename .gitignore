@@ -7,8 +7,6 @@ footer.html
 googleAnalytics.html
 header.html
 
-/images/*
-
 index.Rmd
 project1.Rmd
 project2.Rmd
@@ -17,3 +15,9 @@ resources.Rmd
 references.Rmd
 cv.Rmd
 
+/cv/*
+
+/images/*
+
+/CurriculumVitae_1p_EN_09-21_ChristianAeschbacher_files/*
+CurriculumVitae_1p_EN_09-21_ChristianAeschbacher.htm
