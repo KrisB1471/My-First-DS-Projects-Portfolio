@@ -35,5 +35,5 @@ output:
     include:
       before_body: header.html
       after_body: footer.html
-#    css: github-dark.css
-output_dir: "yml_output_dir"
+    css: github-dark.css
+output_dir: "docs"
