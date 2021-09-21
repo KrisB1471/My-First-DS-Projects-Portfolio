@@ -33,7 +33,7 @@ Goals:
 
 5. To improve public mental health and promote citizen's well-beeing.
 
-
+(Currently Archived)
 ## **[GitHub Project 3](https://github.com/KrisB1471/CorpCom)**
 [Project 3 on ResearchGate](https://www.researchgate.net/project/Analysis-of-Switzerlands-Public-Health-Communication-during-the-COVID-19-Pandemic)
 
