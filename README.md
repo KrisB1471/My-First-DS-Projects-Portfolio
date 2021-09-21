@@ -1,6 +1,7 @@
 # **Ongoing Projects:**
 
 ## **[GitHub Project 1](https://github.com/KrisB1471/ExpAlgPref.git)**
+
 [Project 1 on ResearchGate](https://www.researchgate.net/project/Exploring-Expert-Algorithmic-Preference-as-Partial-yet-Functional-Predictor-of-Analytic-Result-Variation)
 
 ### **Exploring Expert Algorithmic Preference as Partial - yet Functional Predictor of Analytic Result Variation**
@@ -17,6 +18,7 @@ Goals:
 
 
 ## **[GitHub Project 2](https://github.com/KrisB1471/LTF)**
+
 [Project 2 on ResearchGate](https://www.researchgate.net/project/Measuring-the-Efficacy-and-Efficiency-of-Psychological-Interventions)
 
 ### **Measuring the Efficacy and Efficiency of Psychological Interventions**
@@ -33,8 +35,9 @@ Goals:
 
 5. To improve public mental health and promote citizen's well-beeing.
 
-(Currently Archived)
-## **[GitHub Project 3](https://github.com/KrisB1471/CorpCom)**
+
+## **[GitHub Project 3](https://github.com/KrisB1471/CorpCom)** (Currently Archived)
+
 [Project 3 on ResearchGate](https://www.researchgate.net/project/Analysis-of-Switzerlands-Public-Health-Communication-during-the-COVID-19-Pandemic)
 
 ### **Analysis of Switzerland’s Public Health Communication during the COVID-19 Pandemic**
