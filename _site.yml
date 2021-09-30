@@ -20,15 +20,12 @@ navbar:
     # - text: "CV"
     #   href: cv.html
   right:
-    - text: ""
+    - text: " "
       icon: fab fa-github
       href: "https://github.com/KrisB1471" 
     - text: " "
       icon: fab fa-researchgate
       href: "https://www.researchgate.net/profile/Chris-Aeschbacher"
-    # - text: " "
-    #   icon: fab fa-orchid
-    #   href: "https://orcid.org/my-orcid?orcid=0000-0003-4354-9477"
     - text: " "
       icon: fab fa-linkedin
       href: "https://www.linkedin.com/in/chris-aeschbacher-14511aa9/"
